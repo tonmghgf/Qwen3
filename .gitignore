@@ -1,0 +1,13 @@
+*.bin
+*.safetensors
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.tar
+*.zip
+*.rar
+图片/
+.idea/
+.vscode/
+__pycache__/
